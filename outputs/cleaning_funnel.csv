@@ -1,0 +1,5 @@
+step,images,removed
+Image files on disk,23708,0
+Decode successfully,23708,0
+Decode and have valid labels,23705,3
+After removing exact duplicates,23056,649

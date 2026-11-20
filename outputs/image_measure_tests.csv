@@ -1,0 +1,6 @@
+measure,test,effect,effect_type,p_value
+brightness,Kruskal-Wallis,0.0906,epsilon^2,0.00e+00
+contrast,Kruskal-Wallis,0.0743,epsilon^2,0.00e+00
+is_gray,chi-square,0.0492,Cramer's V,2.15e-11
+log_sharpness,Kruskal-Wallis,0.04,epsilon^2,3.98e-198
+saturation,Kruskal-Wallis,0.0233,epsilon^2,2.04e-111
